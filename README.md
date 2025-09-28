@@ -1,11 +1,12 @@
-#**Neural Network from Scratch (Python + NumPy)**#
-📌 Overview
+# **Neural Network from Scratch (Python + NumPy)**
+
+## 📌 Overview
 
 This project demonstrates how to build and train a simple feedforward neural network from scratch using only NumPy, without relying on deep learning libraries like TensorFlow or PyTorch.
 
 The model is trained on the two-moons dataset from scikit-learn to perform binary classification. It uses forward propagation, backpropagation, gradient descent, and softmax cross-entropy loss.
 
-🚀 Features
+## 🚀 Features
 
 * Implements a fully connected neural network using only NumPy.
 
@@ -19,7 +20,8 @@ The model is trained on the two-moons dataset from scikit-learn to perform binar
 
 * Visualizes the decision boundary after training.
 
-✨ Key Takeaway
+## ✨ Key Takeaway
 
 
 This project shows how a neural network really works under the hood, giving you a solid understanding of forward propagation, backpropagation, and optimization — without relying on prebuilt libraries.
+
